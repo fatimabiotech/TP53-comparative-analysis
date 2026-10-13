@@ -1,0 +1,6 @@
+Functional Region,Functional Range,Conserved Residues/Ranges,Conserved Residues (n),Domain Length,Conservation Coverage (%)
+DNA-binding domain,100-288,"107-114, 116-128, 130-147, 157-166, 170-181, 186-202, 211-221, 230-260, 262-267, 269-288",146,189,77.25
+Central conserved site,237-249,237-249,13,13,100.0
+Tetramerisation domain,319-357,"319-335, 347-353",24,39,61.54
+Transactivation domain,6-30,13-20,8,25,32.0
+Transactivation domain 2,35-59,,0,25,0.0

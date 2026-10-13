@@ -1,0 +1,15 @@
+Conserved_region,Functional_region,Functional_range,Overlap,Overlap_length
+13-20,Transactivation domain,6-30,13-20,8
+107-114,DNA-binding domain,100-288,107-114,8
+116-128,DNA-binding domain,100-288,116-128,13
+130-147,DNA-binding domain,100-288,130-147,18
+157-166,DNA-binding domain,100-288,157-166,10
+170-181,DNA-binding domain,100-288,170-181,12
+186-202,DNA-binding domain,100-288,186-202,17
+211-221,DNA-binding domain,100-288,211-221,11
+230-260,DNA-binding domain,100-288,230-260,31
+230-260,Central conserved site,237-249,237-249,13
+262-267,DNA-binding domain,100-288,262-267,6
+269-288,DNA-binding domain,100-288,269-288,20
+319-335,Tetramerisation domain,319-357,319-335,17
+347-353,Tetramerisation domain,319-357,347-353,7

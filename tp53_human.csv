@@ -1,0 +1,18 @@
+protein_id,sequence_length,analysis,signature_accession,signature_description,start,end,interpro_accession,interpro_description
+Sequence1,393,CDD,cd08367,P53,109,288,IPR011615,"p53, DNA-binding domain"
+Sequence1,393,ProSitePatterns,PS00348,p53 family signature.,237,249,IPR057064,"p53, central conserved site"
+Sequence1,393,SUPERFAMILY,SSF47719,p53 tetramerization domain,319,357,IPR036674,p53-like tetramerisation domain superfamily
+Sequence1,393,Gene3D,G3DSA:2.60.40.720,-,95,294,IPR012346,"p53/RUNT-type transcription factor, DNA-binding domain superfamily"
+Sequence1,393,Gene3D,G3DSA:4.10.170.10,-,319,360,IPR036674,p53-like tetramerisation domain superfamily
+Sequence1,393,SUPERFAMILY,SSF49417,p53-like transcription factors,97,287,IPR008967,"p53-like transcription factor, DNA-binding domain superfamily"
+Sequence1,393,PANTHER,PTHR11447,CELLULAR TUMOR ANTIGEN P53,3,369,IPR002117,p53 tumour suppressor family
+Sequence1,393,Pfam,PF00870,P53 DNA-binding domain,100,288,IPR011615,"p53, DNA-binding domain"
+Sequence1,393,Pfam,PF07710,P53 tetramerisation motif,319,357,IPR010991,"p53, tetramerisation domain"
+Sequence1,393,PRINTS,PR00386,P53 tumour supressor signature,116,142,IPR002117,p53 tumour suppressor family
+Sequence1,393,PRINTS,PR00386,P53 tumour supressor signature,158,179,IPR002117,p53 tumour suppressor family
+Sequence1,393,PRINTS,PR00386,P53 tumour supressor signature,213,234,IPR002117,p53 tumour suppressor family
+Sequence1,393,PRINTS,PR00386,P53 tumour supressor signature,236,258,IPR002117,p53 tumour suppressor family
+Sequence1,393,PRINTS,PR00386,P53 tumour supressor signature,264,286,IPR002117,p53 tumour suppressor family
+Sequence1,393,PRINTS,PR00386,P53 tumour supressor signature,326,350,IPR002117,p53 tumour suppressor family
+Sequence1,393,Pfam,PF08563,P53 transactivation motif,6,30,IPR013872,"p53, transactivation domain"
+Sequence1,393,Pfam,PF18521,Transactivation domain 2,35,59,IPR040926,"Cellular tumor antigen p53, transactivation domain 2"

@@ -1,0 +1,196 @@
+Residue,Amino_acid,Functional_domains
+13,PRO,Transactivation domain
+14,LEU,Transactivation domain
+15,SER,Transactivation domain
+16,GLN,Transactivation domain
+17,GLU,Transactivation domain
+18,THR,Transactivation domain
+19,PHE,Transactivation domain
+20,SER,Transactivation domain
+91,TRP,
+92,PRO,
+93,LEU,
+94,SER,
+95,SER,
+107,TYR,DNA-binding domain
+108,GLY,DNA-binding domain
+109,PHE,DNA-binding domain
+110,ARG,DNA-binding domain
+111,LEU,DNA-binding domain
+112,GLY,DNA-binding domain
+113,PHE,DNA-binding domain
+114,LEU,DNA-binding domain
+116,SER,DNA-binding domain
+117,GLY,DNA-binding domain
+118,THR,DNA-binding domain
+119,ALA,DNA-binding domain
+120,LYS,DNA-binding domain
+121,SER,DNA-binding domain
+122,VAL,DNA-binding domain
+123,THR,DNA-binding domain
+124,CYS,DNA-binding domain
+125,THR,DNA-binding domain
+126,TYR,DNA-binding domain
+127,SER,DNA-binding domain
+128,PRO,DNA-binding domain
+130,LEU,DNA-binding domain
+131,ASN,DNA-binding domain
+132,LYS,DNA-binding domain
+133,MET,DNA-binding domain
+134,PHE,DNA-binding domain
+135,CYS,DNA-binding domain
+136,GLN,DNA-binding domain
+137,LEU,DNA-binding domain
+138,ALA,DNA-binding domain
+139,LYS,DNA-binding domain
+140,THR,DNA-binding domain
+141,CYS,DNA-binding domain
+142,PRO,DNA-binding domain
+143,VAL,DNA-binding domain
+144,GLN,DNA-binding domain
+145,LEU,DNA-binding domain
+146,TRP,DNA-binding domain
+147,VAL,DNA-binding domain
+157,VAL,DNA-binding domain
+158,ARG,DNA-binding domain
+159,ALA,DNA-binding domain
+160,MET,DNA-binding domain
+161,ALA,DNA-binding domain
+162,ILE,DNA-binding domain
+163,TYR,DNA-binding domain
+164,LYS,DNA-binding domain
+165,GLN,DNA-binding domain
+166,SER,DNA-binding domain
+170,THR,DNA-binding domain
+171,GLU,DNA-binding domain
+172,VAL,DNA-binding domain
+173,VAL,DNA-binding domain
+174,ARG,DNA-binding domain
+175,ARG,DNA-binding domain
+176,CYS,DNA-binding domain
+177,PRO,DNA-binding domain
+178,HIS,DNA-binding domain
+179,HIS,DNA-binding domain
+180,GLU,DNA-binding domain
+181,ARG,DNA-binding domain
+186,ASP,DNA-binding domain
+187,GLY,DNA-binding domain
+188,LEU,DNA-binding domain
+189,ALA,DNA-binding domain
+190,PRO,DNA-binding domain
+191,PRO,DNA-binding domain
+192,GLN,DNA-binding domain
+193,HIS,DNA-binding domain
+194,LEU,DNA-binding domain
+195,ILE,DNA-binding domain
+196,ARG,DNA-binding domain
+197,VAL,DNA-binding domain
+198,GLU,DNA-binding domain
+199,GLY,DNA-binding domain
+200,ASN,DNA-binding domain
+201,LEU,DNA-binding domain
+202,ARG,DNA-binding domain
+211,THR,DNA-binding domain
+212,PHE,DNA-binding domain
+213,ARG,DNA-binding domain
+214,HIS,DNA-binding domain
+215,SER,DNA-binding domain
+216,VAL,DNA-binding domain
+217,VAL,DNA-binding domain
+218,VAL,DNA-binding domain
+219,PRO,DNA-binding domain
+220,TYR,DNA-binding domain
+221,GLU,DNA-binding domain
+230,THR,DNA-binding domain
+231,THR,DNA-binding domain
+232,ILE,DNA-binding domain
+233,HIS,DNA-binding domain
+234,TYR,DNA-binding domain
+235,ASN,DNA-binding domain
+236,TYR,DNA-binding domain
+237,MET,DNA-binding domain; Central conserved site
+238,CYS,DNA-binding domain; Central conserved site
+239,ASN,DNA-binding domain; Central conserved site
+240,SER,DNA-binding domain; Central conserved site
+241,SER,DNA-binding domain; Central conserved site
+242,CYS,DNA-binding domain; Central conserved site
+243,MET,DNA-binding domain; Central conserved site
+244,GLY,DNA-binding domain; Central conserved site
+245,GLY,DNA-binding domain; Central conserved site
+246,MET,DNA-binding domain; Central conserved site
+247,ASN,DNA-binding domain; Central conserved site
+248,ARG,DNA-binding domain; Central conserved site
+249,ARG,DNA-binding domain; Central conserved site
+250,PRO,DNA-binding domain
+251,ILE,DNA-binding domain
+252,LEU,DNA-binding domain
+253,THR,DNA-binding domain
+254,ILE,DNA-binding domain
+255,ILE,DNA-binding domain
+256,THR,DNA-binding domain
+257,LEU,DNA-binding domain
+258,GLU,DNA-binding domain
+259,ASP,DNA-binding domain
+260,SER,DNA-binding domain
+262,GLY,DNA-binding domain
+263,ASN,DNA-binding domain
+264,LEU,DNA-binding domain
+265,LEU,DNA-binding domain
+266,GLY,DNA-binding domain
+267,ARG,DNA-binding domain
+269,SER,DNA-binding domain
+270,PHE,DNA-binding domain
+271,GLU,DNA-binding domain
+272,VAL,DNA-binding domain
+273,ARG,DNA-binding domain
+274,VAL,DNA-binding domain
+275,CYS,DNA-binding domain
+276,ALA,DNA-binding domain
+277,CYS,DNA-binding domain
+278,PRO,DNA-binding domain
+279,GLY,DNA-binding domain
+280,ARG,DNA-binding domain
+281,ASP,DNA-binding domain
+282,ARG,DNA-binding domain
+283,ARG,DNA-binding domain
+284,THR,DNA-binding domain
+285,GLU,DNA-binding domain
+286,GLU,DNA-binding domain
+287,GLU,DNA-binding domain
+288,ASN,DNA-binding domain
+304,THR,
+305,LYS,
+306,ARG,
+307,ALA,
+308,LEU,
+309,PRO,
+319,LYS,Tetramerisation domain
+320,LYS,Tetramerisation domain
+321,LYS,Tetramerisation domain
+322,PRO,Tetramerisation domain
+323,LEU,Tetramerisation domain
+324,ASP,Tetramerisation domain
+325,GLY,Tetramerisation domain
+326,GLU,Tetramerisation domain
+327,TYR,Tetramerisation domain
+328,PHE,Tetramerisation domain
+329,THR,Tetramerisation domain
+330,LEU,Tetramerisation domain
+331,GLN,Tetramerisation domain
+332,ILE,Tetramerisation domain
+333,ARG,Tetramerisation domain
+334,GLY,Tetramerisation domain
+335,ARG,Tetramerisation domain
+347,ALA,Tetramerisation domain
+348,LEU,Tetramerisation domain
+349,GLU,Tetramerisation domain
+350,LEU,Tetramerisation domain
+351,LYS,Tetramerisation domain
+352,ASP,Tetramerisation domain
+353,ALA,Tetramerisation domain
+362,SER,
+363,ARG,
+364,ALA,
+365,HIS,
+366,SER,
+367,SER,
